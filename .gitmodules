@@ -1,0 +1,6 @@
+[submodule "CPSC314_Auth_Server"]
+	path = CPSC314_Auth_Server
+	url = https://github.com/stevenson-james/CPSC314_Auth_Server
+[submodule "CPSC314_Client"]
+	path = CPSC314_Client
+	url = https://github.com/stevenson-james/CPSC314_Client
